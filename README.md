@@ -1,3 +1,3 @@
 # argo-cd-example
 
-first commit
+first commit + workflow
