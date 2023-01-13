@@ -1,4 +1,8 @@
-variable "project_id" {}
+variable "project_id" {
+  type        = string
+  description = "GCP project name"
+  default     = "rdrtest"
+}
 
 variable "cluster_name" {
   type      = string
