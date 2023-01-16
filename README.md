@@ -1,3 +1,3 @@
 # argo-cd-example
 
-first commit + workflow with bucket created +6
+first commit + workflow with bucket created +2
