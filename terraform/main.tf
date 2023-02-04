@@ -7,7 +7,7 @@ terraform {
     }
   }
   backend "gcs" {
-    bucket = "terraform-backend-rdrtest"
+    bucket = "terraform-backend-rdrtest-ng-arq"
     prefix = "argocd-terraform"
   }
 }

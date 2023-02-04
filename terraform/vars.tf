@@ -7,17 +7,17 @@ variable "project_id" {
 variable "cluster_name" {
   type      = string
   description = "cluster name"
-  default   = "k8s-cluster-3"
+  default   = "k8s-cluster-ng-arq"
 }
 
 variable "region" {
   type = string
   description = "cluster region"
-  default = "us-central1"
+  default = "northamerica-northeast1"
 }
 
 variable "location" {
   type        = string
   description = "cluster location"
-  default     = "us-central1-a"
+  default     = "northamerica-northeast1"
 }
