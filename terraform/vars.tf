@@ -16,6 +16,7 @@ variable "region" {
   default = "northamerica-northeast1"
 }
 
+
 variable "location" {
   type        = string
   description = "cluster location"
